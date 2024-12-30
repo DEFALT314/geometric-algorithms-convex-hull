@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="f71b0d98-7f94-406e-8b95-5a73cf083a08" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algosy/Chan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algosy/Chan.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +65,7 @@
       <workItem from="1735329408396" duration="122000" />
       <workItem from="1735335164938" duration="26000" />
       <workItem from="1735489040974" duration="14629000" />
-      <workItem from="1735546289606" duration="1852000" />
+      <workItem from="1735546289606" duration="3013000" />
     </task>
     <servers />
   </component>
@@ -78,18 +77,8 @@
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/algosy/Chan.ipynb</url>
-          <line>50</line>
-          <option name="timeStamp" value="12" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/algosy/Chan.ipynb</url>
-          <line>276</line>
+          <line>191</line>
           <option name="timeStamp" value="13" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
-          <url>file://$PROJECT_DIR$/algosy/Chan.ipynb</url>
-          <line>315</line>
-          <option name="timeStamp" value="14" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
