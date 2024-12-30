@@ -6,7 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="f71b0d98-7f94-406e-8b95-5a73cf083a08" name="Changes" comment="channnn">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/algosy/Chan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algosy/Chan.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algosy/Incremental.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algosy/Incremental.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,7 +70,7 @@
       <workItem from="1735546289606" duration="4662000" />
       <workItem from="1735551149556" duration="5886000" />
       <workItem from="1735558451461" duration="938000" />
-      <workItem from="1735562374988" duration="1362000" />
+      <workItem from="1735562374988" duration="2149000" />
     </task>
     <servers />
   </component>
