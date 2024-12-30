@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f71b0d98-7f94-406e-8b95-5a73cf083a08" name="Changes" comment="">
+    <list default="true" id="f71b0d98-7f94-406e-8b95-5a73cf083a08" name="Changes" comment="channnn">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/algosy/Chan.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algosy/Chan.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/algosy/Incremental.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/algosy/Incremental.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +34,7 @@
   </component>
   <component name="PropertiesComponent">{
   &quot;keyToString&quot;: {
+    &quot;Python tests.Doctests in traitlets.executor&quot;: &quot;Debug&quot;,
     &quot;Python.lol.executor&quot;: &quot;Run&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
@@ -65,25 +68,38 @@
       <workItem from="1735329408396" duration="122000" />
       <workItem from="1735335164938" duration="26000" />
       <workItem from="1735489040974" duration="14629000" />
-      <workItem from="1735546289606" duration="3013000" />
+      <workItem from="1735546289606" duration="4662000" />
+      <workItem from="1735551149556" duration="5886000" />
+      <workItem from="1735558451461" duration="938000" />
+      <workItem from="1735562374988" duration="1362000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="channnn" />
+    <option name="LAST_COMMIT_MESSAGE" value="channnn" />
+  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
       <breakpoints>
         <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
           <url>file://$PROJECT_DIR$/algosy/Chan.ipynb</url>
-          <line>191</line>
+          <line>197</line>
           <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>file://$PROJECT_DIR$/algosy/Chan.ipynb</url>
+          <line>210</line>
+          <option name="timeStamp" value="16" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/Alogrytmy_geometryczne_projekt$Doctests_in_traitlets.coverage" NAME="Doctests in traitlets Coverage Results" MODIFIED="1735552009941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/anaconda3/envs/bit-alg/lib/python3.9/site-packages/traitlets" />
     <SUITE FILE_PATH="coverage/Alogrytmy_geometryczne_projekt$lol.coverage" NAME="lol Coverage Results" MODIFIED="1735335183530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/algosy" />
   </component>
 </project>
