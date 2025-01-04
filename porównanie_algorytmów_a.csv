@@ -1,0 +1,8 @@
+Liczebność zbioru,Liczba punktów otoczki wypukłej,Czas wykonania dla Algorytm Grahama [s],Czas wykonania dla Algorytm Jarvisa [s],Czas wykonania dla Algorytm Andrewsa [s],Czas wykonania dla Algorytm przyrostowy [s],Czas wykonania dla Algorytm dziel i rządź [s],Czas wykonania dla Algorytm QuickHull [s],Czas wykonania dla Algorytm Chana [s]
+1000,19,0.0073,0.0073,0.0013,0.0011,0.0018,0.0052,0.0121
+5000,17,0.0193,0.0232,0.0071,0.0056,0.0093,0.0116,0.0418
+10000,26,0.0409,0.0688,0.0146,0.0125,0.018,0.0234,0.098
+50000,28,0.2729,0.5561,0.0958,0.0679,0.1232,0.1317,0.7502
+100000,38,0.6208,1.8496,0.2252,0.1433,0.329,0.2748,1.2945
+500000,37,4.1088,11.0045,1.478,0.8184,2.0507,1.4868,7.3803
+1000000,34,9.1415,20.5292,3.2247,1.7808,5.2948,3.5823,16.0982
