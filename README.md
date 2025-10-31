@@ -1,6 +1,6 @@
 # Geometric Algorithms: Convex Hull Project
 
-This project provides a comprehensive implementation, visualization, and performance analysis of classical algorithms for computing the convex hull of a set of points in a 2D plane. It offers a practical exploration of fundamental concepts in computational geometry.
+This project provides a comprehensive implementation, visualization, and performance analysis of classical algorithms for computing the convex hull of a set of points in a 2D plane. This project provides a practical exploration of fundamental concepts in computational geometry.
 ### Implemented Algorithms
 
 This repository includes Python implementations of the following convex hull algorithms:
@@ -14,8 +14,9 @@ This repository includes Python implementations of the following convex hull alg
 
 ### Key Features
 
-  * **Step-by-Step Visualization:** Each algorithm have special visual versions of each algorithm to show, step-by-step, how the convex hull is built.
-  * **Performance Analysis:** A analysis of the implemented algorithms is conducted using various test datasets. The results, including execution times across different point distributions, are generated and saved in the `results/` directory.
+- **Step-by-Step Visualization:** Each algorithm includes a visual version showing, step by step, how the convex hull is built.
+- **Performance Analysis:** The implemented algorithms are analyzed using various test datasets. Results, including execution times across different point distributions, are saved in the `results/` directory.
+
 
 
 ## Project Structure
@@ -29,16 +30,26 @@ geometric-algorithms-convex-hull/
 └── README.md                   # This file.
 ```
 
------
 
-## Getting Started
 
 ### Prerequisites
 
-  * `pandas`
-  * `numpy`
-  * `matplotlib`
- * [`bit-alg`](https://github.com/aghbit/Algorytmy-Geometryczne)
+This project depends on the [`bit-alg`](https://github.com/aghbit/Algorytmy-Geometryczne) Conda environment, which contains all necessary dependencies. To set it up:
+
+```bash
+# Clone the bit-alg repository
+git clone https://github.com/aghbit/Algorytmy-Geometryczne.git
+cd Algorytmy-Geometryczne
+
+# Create and activate conda environment
+conda create --name bit-alg python=3.9
+conda activate bit-alg
+
+# Install the package locally
+python3 setup.py sdist
+python3 -m pip install -e .
+```
+
 ### Usage
 
 1.  Clone the repository:
@@ -47,8 +58,11 @@ geometric-algorithms-convex-hull/
     git clone https://github.com/DEFALT314/geometric-algorithms-convex-hull.git
     cd geometric-algorithms-convex-hull
     ```
-
-2.  Run Jupyter Notebook:
+2. Make sure the bit-alg environment is active:
+     ```bash
+    conda activate bit-alg
+     ```
+3.  Run Jupyter Notebook:
 
     ```bash
     jupyter notebook main.ipynb
