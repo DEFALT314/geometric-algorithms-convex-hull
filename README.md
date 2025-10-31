@@ -38,7 +38,7 @@ geometric-algorithms-convex-hull/
   * `pandas`
   * `numpy`
   * `matplotlib`
-
+ * [`bit-alg`](https://github.com/aghbit/Algorytmy-Geometryczne)
 ### Usage
 
 1.  Clone the repository:
