@@ -14,7 +14,7 @@ This repository includes Python implementations of the following convex hull alg
 
 ### Key Features
 
-  * **Step-by-Step Visualization:** The main Jupyter Notebook (`main.ipynb`) includes notebook includes special visual versions of each algorithm to show, step-by-step, how the convex hull is built.
+  * **Step-by-Step Visualization:** Each algorithm have special visual versions of each algorithm to show, step-by-step, how the convex hull is built.
   * **Performance Analysis:** A analysis of the implemented algorithms is conducted using various test datasets. The results, including execution times across different point distributions, are generated and saved in the `results/` directory.
 
 
